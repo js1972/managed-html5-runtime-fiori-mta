@@ -1,0 +1,13 @@
+*.mtar
+node_modules
+*/yarn.lock
+package-lock.json
+dist/
+deployer/resources/
+mta_archives
+HTML5Module-content.zip
+manifest-bundle.zip
+
+diagrams/
+diagrams.pptx
+.DS_Store
